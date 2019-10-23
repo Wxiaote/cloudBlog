@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Wxiaote`s Blog</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Wxiaote`s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 23 Oct 2019 17:04:07 +0800</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Helloworld</title>
+      <link>/2019/helloworld/</link>
+      <pubDate>Wed, 23 Oct 2019 17:04:07 +0800</pubDate>
+      
+      <guid>/2019/helloworld/</guid>
+      <description> Hugo, helloworld! </description>
+    </item>
+    
+    <item>
+      <title>Hugo&#43;github_Blog</title>
+      <link>/2019/hugo-github_blog/</link>
+      <pubDate>Wed, 23 Oct 2019 12:52:30 +0800</pubDate>
+      
+      <guid>/2019/hugo-github_blog/</guid>
+      <description>使用 Hugo + GitHub Pages 搭建个人博客 准备工作 一个 Github 账号。 &amp;lt;- 我们要使用它提供的 Github Pages 服务来搭建博客 https://github.com/ Hugo &amp;lt;- 博客框架，将 Markdown 文档渲染成网页 https://github.com/gohugoio/hugo Git &amp;lt;- 用来发布博客 https://git-scm.com/ ## 正</description>
+    </item>
+    
+  </channel>
+</rss>
