@@ -1,0 +1,27 @@
+{
+  "name": "wxiaote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "algolia": "atomic-algolia"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wxiaote/cloudBlog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wxiaote/cloudBlog/issues"
+  },
+  "homepage": "https://github.com/Wxiaote/cloudBlog#readme",
+  "dependencies": {
+    "atomic-algolia": "^0.3.17",
+    "cheerio": "^1.0.0-rc.3",
+    "reqest": "0.0.1-security",
+    "request": "^2.88.0",
+    "xml-parser": "^1.2.1"
+  }
+}
