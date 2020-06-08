@@ -1,6 +1,6 @@
 # [**Wxiaote Blog**](https://wxiaote.space) 个人博客
 
- [![Build Status](https://camo.githubusercontent.com/ac99f978b5772eb463e14642e605d321c1c05aae/68747470733a2f2f7472617669732d63692e6f72672f4d6f67656b6f2f426c6f672e7376673f6272616e63683d6d6173746572)](https://travis-ci.org/Wxiaote/cloudBlog) 
+ [![Build Status](https://travis-ci.org/Wxiaote/cloudBlog.svg?branch=master)](https://travis-ci.org/Wxiaote/cloudBlog)
 
 地址：**[https://wxiaote.space](https://wxiaote.space）**
 
