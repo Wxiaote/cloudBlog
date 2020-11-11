@@ -1,8 +1,7 @@
 # [**Wxiaote Blog**](https://wxiaote.space) 个人博客
 
 
-
-地址：**[https://wxiaote.space](https://wxiaote.space）**
+地址：**[https://wxiaote.github.io](https://wxiaote.github.io）**
 
 使用 Markdown 书写，用 [Hugo](https://gohugo.io/) 生成静态网页，用 Travis IC 部署到 [wxiaote.github.io](https://github.com/Wxiaote/wxiaote.github.io) 。
 
@@ -10,15 +9,9 @@
 
 **构建**：Hugo
 
-**主题**  ：   [LeaveIt](https://github.com/liuzc/LeaveIt)    
-
 **搜索引擎**：[algolia]( https://www.algolia.com/ )  
 
 **图床**：Github + PicGO
-
-
-
-
 
 
 
