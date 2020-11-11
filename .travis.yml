@@ -35,7 +35,7 @@ script:
   - cd ./public
   - git init
   - git config user.name "Wxiaote"
-  - git config user.email "ggzxiaote@163.com"
+  - git config user.email "wxiaote@163.com"
   - git add .
   - git commit -m "Update Blog By TravisCI With Build $TRAVIS_BUILD_NUMBER"
   # Github Pages
