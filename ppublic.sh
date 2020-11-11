@@ -11,8 +11,8 @@ rm -rf public
 mkdir public
 rm -rf .git/worktrees/public/
 
-echo "更新分支"
-git worktree add -B hugo public origin/hugo
+# echo "更新分支"
+# git worktree add -B hugo public origin/hugo
 
 echo "删除旧文件"
 rm -rf public/*
@@ -20,8 +20,8 @@ rm -rf public/*
 echo "生成hugo静态页面"
 hugo
 
-echo "更新hugo分支"
-cd public && git add --all && git commit -m " 通过(publish.sh)更新博客"
-
-echo "Push to origin"
+# echo "更新hugo分支"
+# cd public && git add --all && git commit -m " 通过(publish.sh)更新博客"
+git add --all && git commit -m " 通过(publish.sh)更新博客"
+echo "Push to origin master"
 git push origin master
