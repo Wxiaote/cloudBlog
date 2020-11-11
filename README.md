@@ -10,8 +10,6 @@
 
 **构建**：Hugo
 
-**主题**  ：   [LeaveIt](https://github.com/liuzc/LeaveIt)
-
 **搜索引擎**：[algolia]( https://www.algolia.com/ )  
 
 **图床**：Github + PicGO
