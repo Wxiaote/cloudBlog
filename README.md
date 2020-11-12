@@ -1,7 +1,7 @@
 # [**Wxiaote Blog**](https://wxiaote.space) 个人博客 [![Build Status](https://travis-ci.org/Wxiaote/cloudBlog.svg?branch=master)](https://travis-ci.org/Wxiaote/cloudBlog)
 
 
-地址：**[https://wxiaote.github.io](https://wxiaote.github.io）**
+地址： **[http://wxiaote.github.io](https://wxiaote.github.io)**
 
 使用 Markdown 书写，用 [Hugo](https://gohugo.io/) 生成静态网页，用 Travis IC 部署到 [wxiaote.github.io](https://github.com/Wxiaote/wxiaote.github.io) 。
 
