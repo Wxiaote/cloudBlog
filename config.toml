@@ -1,6 +1,6 @@
 baseURL = "https://wxiaote.gitee.io/"
 languageCode = "en"
-defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
+defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Wxiaote"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
@@ -175,7 +175,7 @@ copyright = "Wxiaote"            # default: author.name ↓        # 默认为�
     options = ""            # default: "{theme: 'simple'}"
 
   [params.busuanzi]         # count web traffic by busuanzi                             # 是否使用不蒜子统计站点访问量
-    enable = false
+    enable = true
     siteUV = true
     sitePV = true
     pagePV = true
