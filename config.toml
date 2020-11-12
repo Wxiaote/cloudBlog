@@ -112,6 +112,10 @@ copyright = "Wxiaote"            # default: author.name ↓        # 默认为�
   customCSS = []
   customJS = []
 
+
+
+
+
   uglyURLs = false          # please keep same with uglyurls setting
 
   [params.publicCDN]        # load these files from public cdn                          # 启用公共CDN，需自行定义
@@ -177,9 +181,9 @@ copyright = "Wxiaote"            # default: author.name ↓        # 默认为�
     pagePV = true
 
   [params.reward]                                         # 文章打赏
-    enable = false
-    wechat = "/path/to/your/wechat-qr-code.png"           # 微信二维码
-    alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
+    enable = true
+    wechat = "/img/reward/webwxgetmsgimg.jpeg"           # 微信二维码
+    #alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
     a-email = "mailto:wxiaote@163.com"
