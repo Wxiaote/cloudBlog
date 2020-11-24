@@ -5,7 +5,7 @@
 // ========== Theme Color ========== //
 // Config here to change theme color
 // Default | Mint Green | Cobalt Blue | Hot Pink | Dark Violet
-$theme-color-config: 'Default';
+$theme-color-config: 'Dark Violet';
 
 // Default theme color map
 $theme-color-map: (
@@ -209,6 +209,22 @@ $code-highlight-color: (
   formula: #eee8d5
 ) !default;
 
+// $code-highlight-color: (
+//   comment: #93a1a1,
+//   keyword: #859900,
+//   number: #2aa198,
+//   title: #268bd2,
+//   attribute: #b58900,
+//   symbol: #cb4b16,
+//   built_in: #dc322f,
+//   formula: #eee8d5
+// ) !default;
+
+
+
+
+
+
 // Code type list.
 $code-type-list: (
   // Custom code type
@@ -259,7 +275,7 @@ $code-type-list: (
 
 // Color of the code background.
 $code-background: $deputy-color !default;
-
+// $code-background: $deputy-color !default;
 
 // ========== Pagination ========== //
 // Margin of the pagination.
