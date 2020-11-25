@@ -38,11 +38,12 @@ copyright = "Wxiaote"            # default: author.name ↓        # 默认为�
   weight = 20
   identifier = "tags"
   url = "/tags/"
-[[menu.main]]
-  name = "标签"
-  weight = 30
-  identifier = "categories"
-  url = "/categories/"
+#[[menu.main]]
+#  name = "标签"
+#  weight = 30
+#  identifier = "categories"
+#  url = "/categories/"
+
 [[menu.main]]
   name = "日积月累"
   weight = 40
