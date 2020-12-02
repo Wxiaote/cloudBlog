@@ -29,7 +29,7 @@ copyright = "Wxiaote"            # default: author.name ↓        # 默认为�
   filename = "sitemap.xml"
 
 [[menu.main]]        
-  name = "随笔"
+  name = "生活随笔"
   weight = 10
   identifier = "home"
   url = "/"
